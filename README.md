@@ -24,7 +24,6 @@ available at the project website:
 
   https://easy-rpg.org/
 
-
 Material files
 --------------
 
@@ -32,7 +31,6 @@ EasyRPG RTP development is hosted by GitHub.
 Project files are available in Git repositories.
 
   https://github.com/EasyRPG/RTP
-
 
 License
 -------
