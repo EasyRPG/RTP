@@ -1,3 +1,8 @@
 
 # ignore Makefile for distribution archives
 /Makefile export-ignore
+
+# ignore .gitignore and this file (the .gitignore files in subdirectories
+# are not really used, but just a way to track empty directories)
+.gitignore export-ignore
+.gitattributes export-ignore

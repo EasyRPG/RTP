@@ -16,11 +16,11 @@ dist: dist-tar dist-zip
 
 dist-zip:
 	@rm -f easyrpg-rtp.zip
-	@git archive --prefix=EasyRPG-RTP/ -9 --output=$(MYDIR)/easyrpg-rtp.zip master
+	@git archive --prefix=EasyRPG-RTP/ -9 --output=$(MYDIR)/easyrpg-rtp.zip --worktree-attributes master
 
 dist-tar:
 	@rm -f easyrpg-rtp.tar.gz
-	@git archive --prefix=EasyRPG-RTP/ --output=$(MYDIR)/easyrpg-rtp.tar.gz master
+	@git archive --prefix=EasyRPG-RTP/ --output=$(MYDIR)/easyrpg-rtp.tar.gz --worktree-attributes master
 
 optimize: optimize-png
 
