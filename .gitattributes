@@ -1,0 +1,3 @@
+
+# ignore Makefile for distribution archives
+/Makefile export-ignore
