@@ -19,7 +19,7 @@ dist-zip:
 	@rm -f easyrpg-rtp.zip
 	@rm -rf dist-zip
 	@mkdir dist-zip
-	@git archive --prefix=EasyRPG-RTP/ --worktree-attributes master | tar xf - -C dist-zip
+	@git archive --prefix=EasyRPG-RTP/ --worktree-attributes HEAD | tar xf - -C dist-zip
 	@cd dist-zip/EasyRPG-RTP; mv README.md README.txt; mv AUTHORS.md AUTHORS.txt; mv COPYING COPYING.txt; \
 		unix2dos -q COPYING.txt README.txt AUTHORS.txt
 	@cd dist-zip; zip -9 -q -r $(MYDIR)/easyrpg-rtp.zip EasyRPG-RTP
@@ -29,7 +29,7 @@ dist-tar:
 	@rm -f easyrpg-rtp.tar.gz
 	@rm -rf dist-tar
 	@mkdir dist-tar
-	@git archive --prefix=EasyRPG-RTP/ --worktree-attributes master | tar xf - -C dist-tar
+	@git archive --prefix=EasyRPG-RTP/ --worktree-attributes HEAD | tar xf - -C dist-tar
 	@cd dist-tar/EasyRPG-RTP; mv README.md README; mv AUTHORS.md AUTHORS
 	@tar czf easyrpg-rtp.tar.gz -C dist-tar EasyRPG-RTP
 	@rm -rf dist-tar
