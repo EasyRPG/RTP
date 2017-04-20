@@ -10,8 +10,9 @@ Asset path                  | (c) year Author                   | author URL
 ----------------------------|-----------------------------------|------------------------------------
 BattleWeapon/weapons.png    | (c) 2010 russidan (Alephman)      |
 CharSet/Chara1.png          | (c) 2010 Marina Navarro Travesset | http://muerteatartajo.blogspot.com/
-CharSet/Object1.png         | (c) 2016 Tom Lemmens, Blarumyrran [CC0, original chest] | https://github.com/lemtom
+CharSet/Object1.png         | (c) 2017 Tom Lemmens, Blarumyrran [CC0, original chest] | https://github.com/lemtom
 ChipSet/Basis.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | http://opengameart.org/
+ChipSet/Outline.png         | (c) 2017 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0], Tom Lemmens [CC0] | http://opengameart.org/
 Music/Battle1.mid           | (c) 2010 Juan Manuel Nigretti     | http://goodgameaudio.com.ar/
 Music/BattleEnd1.mid        | (c) 2010 Juan Manuel Nigretti     | http://goodgameaudio.com.ar/
 Music/BattleEnd2.mid        | (c) 2010 Juan Manuel Nigretti     | http://goodgameaudio.com.ar/
