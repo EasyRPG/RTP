@@ -22,7 +22,7 @@ freedom.
 EasyRPG RTP is part of the EasyRPG Project. More information is
 available at the project website:
 
-  https://easy-rpg.org/
+  https://easyrpg.org/
 
 Material files
 --------------
@@ -38,4 +38,4 @@ License
 EasyRPG RTP materials are under a Creative Commons Attribution 4.0
 International License. Read the AUTHORS file for attribution details.
 The COPYING file includes a plain text copy of the license, or visit
-http://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/
