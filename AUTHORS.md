@@ -1,19 +1,18 @@
-Authors
-=======
+# Authors
 
 The following EasyRPG RTP materials are licensed under a
 Creative Commons Attribution 4.0 International license.
 
 License URL: https://creativecommons.org/licenses/by/4.0/
 
-Asset path                  | (c) year Author                      | author URL
+Asset path                  | (c) Year Author                      | Author URL
 ----------------------------|--------------------------------------|------------------------------------
 BattleWeapon/weapons.png    | (c) 2010 russidan (Alephman)         |
-CharSet/Chara1.png          | (c) 2010 Marina Navarro Travesset    | https://muerteatartajo.blogspot.com/
+CharSet/Chara1.png          | (c) 2010 Marina Navarro Travesset    | https://muerteatartajo.blogspot.com
 CharSet/Object1.png         | (c) 2017 Tom Lemmens, Blarumyrran [CC0, original chest] | https://github.com/lemtom
-ChipSet/Basis.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | https://opengameart.org/
-ChipSet/Dungeon.png         | (c) 2018 Dmytro Kushnariov [CC0]     | https://easyrpg.org/
-ChipSet/Outline.png         | (c) 2017 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0], Tom Lemmens [CC0] | https://opengameart.org/
+ChipSet/Basis.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | https://opengameart.org
+ChipSet/Dungeon.png         | (c) 2018 Dmytro Kushnariov [CC0]     | https://easyrpg.org
+ChipSet/Outline.png         | (c) 2017 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0], Tom Lemmens [CC0] | https://opengameart.org
 Music/Battle1.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/BattleEnd1.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/BattleEnd2.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
@@ -64,7 +63,7 @@ System/System4.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System2/System2a.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System2/System2b.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System2/System2c.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
-Title/Title1.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
-Title/Title2.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
-Title/Title3.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
-Title/Title4.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
+Title/Title1.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org
+Title/Title2.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org
+Title/Title3.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org
+Title/Title4.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org
