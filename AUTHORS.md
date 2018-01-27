@@ -56,6 +56,14 @@ Panorama/sky1.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://git
 Panorama/sky2.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
 Panorama/space.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
 Panorama/strange.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+System/Royal.png            | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System/System.png           | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System/System2.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System/System3.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System/System4.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System2/System2a.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System2/System2b.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
+System2/System2c.png        | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 Title/Title1.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
 Title/Title2.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
 Title/Title3.png            | (c) 2010 Francisco de la Peña [CC0]  | https://easyrpg.org/
