@@ -7,7 +7,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
 Asset path                  | (c) Year Author                      | Author URL
 ----------------------------|--------------------------------------|------------------------------------
-BattleWeapon/weapons.png    | (c) 2010 russidan (Alephman)         |
+BattleWeapon/Weapons.png    | (c) 2010 russidan (Alephman)         |
 CharSet/Chara1.png          | (c) 2010 Marina Navarro Travesset    | https://muerteatartajo.blogspot.com
 CharSet/Object1.png         | (c) 2017 Tom Lemmens, Blarumyrran [CC0, original chest] | https://github.com/lemtom
 ChipSet/Basis.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | https://opengameart.org
@@ -42,19 +42,19 @@ Music/Riddle.mid            | (c) 2010 Juan Manuel Nigretti        | https://sou
 Music/Ride1.mid             | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/Sad.mid               | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/Town1.mid             | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Panorama/dawn1.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/dawn2.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/dusk1.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/dusk2.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/night1.png         | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/night2.png         | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/planet1.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/planet2.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/planet3.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/sky1.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/sky2.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/space.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
-Panorama/strange.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Dawn1.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Dawn2.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Dusk1.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Dusk2.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Night1.png         | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Night2.png         | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Planet1.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Planet2.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Planet3.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Sky1.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Sky2.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Space.png          | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Panorama/Strange.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
 System/Royal.png            | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System/System.png           | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System/System2.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
