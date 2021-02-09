@@ -1,27 +1,27 @@
 # EasyRPG RTP
 
 EasyRPG RTP is a material replacement bundle to play RPG Maker 2000 and 2003
-games which depend on RPG Maker RTP material library.
+games which depend on the RPG Maker RTP material library.
 
 EasyRPG RTP is part of the EasyRPG Project. More information is available at the
 project website: <https://easyrpg.org/rtp-replacement/>
 
-Original RPG Maker RTP contains a set of material resources:
+The original RPG Maker RTP contains a set of material resources:
 
 - Graphics
 - Music
 - Sound effects
 
-It allows a preconfigured setup for game creation and shared with other RPG
-Maker based games, saving download bandwidth and disk space.
+It allows one to have a preconfigured setup for game creation and is shared with
+other RPG Maker based games, saving download bandwidth and disk space.
 
-However, original RPG Maker RTP can't be distributed freely. RPG Maker RTP
-features a non-free, propietary license and only can be distributed by
+However, the original RPG Maker RTP can't be distributed freely. RPG Maker RTP
+features a non-free, proprietary license and only can be distributed by
 authorized RPG Maker distributors. Product customers can distribute materials
-but only without separating parts from games made with RPG Maker.
+only after separating them from games made with RPG Maker.
 
-EasyRPG RTP aims to be the free (as in freedom) replacement compatible with the
-original RPG Maker RTP allowing to distribute games with more freedom.
+EasyRPG RTP aims to be a free (as in freedom) replacement, compatible with the
+original RPG Maker RTP, so that games can be distributed more freely.
 
 ## Material files
 
