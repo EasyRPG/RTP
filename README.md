@@ -43,12 +43,15 @@ Available options:
 
 * Open an issue at https://github.com/EasyRPG/RTP/issues
 * Open a thread at https://community.easyrpg.org/
-* Chat with us via IRC: #easyrpg at irc.freenode.net
+* Chat with us via IRC: [#easyrpg at irc.libera.chat]
 
 
 ## License
 
 EasyRPG RTP materials are under a Creative Commons Attribution 4.0
 International License. Read the AUTHORS.md file for attribution details.
-See the file COPYING for a plain text copy of the license, alternatively
+See the file [COPYING] for a plain text copy of the license, alternatively
 you may visit: https://creativecommons.org/licenses/by/4.0/
+
+[#easyrpg at irc.libera.chat]: https://kiwiirc.com/nextclient/#ircs://irc.libera.chat/#easyrpg?nick=rpgguest??
+[COPYING]: COPYING
