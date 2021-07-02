@@ -13,6 +13,7 @@ CharSet/Object1.png         | (c) 2017 Tom Lemmens, Blarumyrran [CC0, original c
 ChipSet/Basis.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | https://opengameart.org
 ChipSet/Dungeon.png         | (c) 2018 Dmytro Kushnariov [CC0]     | https://easyrpg.org
 ChipSet/Outline.png         | (c) 2017 MrBeast, Stephen Challener (Redshrike) [CC-BY, commissioned by OpenGameArt], Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0], Tom Lemmens [CC0] | https://opengameart.org
+Monster/Hornet.png          | (c) 2018 Orochii Zouveleki           | https://ragnarokrproject.com/
 Music/Battle1.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/BattleEnd1.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/BattleEnd2.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
