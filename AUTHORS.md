@@ -13,35 +13,35 @@ CharSet/Object1.png         | (c) 2017 Tom Lemmens, Blarumyrran [CC0] (original 
 ChipSet/Dungeon.png         | (c) 2018 Dmytro Kushnariov [CC0]     | https://easyrpg.org
 ChipSet/Exterior.png        | (c) 2017 MrBeast, Stephen Challener (Redshrike) [CC-BY] (commissioned by OpenGameArt), Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0], Tom Lemmens [CC0] | https://opengameart.org
 ChipSet/World.png           | (c) 2014 MrBeast, Stephen Challener (Redshrike) [CC-BY] (commissioned by OpenGameArt), Carl Olsson (surt), Ogrebane, Garrett Wessner (Gwes), Dmytro Kushnariov (jikmok) [CC0] | https://opengameart.org
-Music/Battle1.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/BattleEnd1.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/BattleEnd2.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/BattleEnd3.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/BattleEnd4.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Castle1.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Battle 1.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Castle 1.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/Church.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Doubt.mid             | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Dungeon1.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Ending2.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare1.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare2.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare3.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare4.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare5.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Fanfare6.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Dungeon 1.mid         | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Ending 2.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/Field1.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Gag1.mid              | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Gag2.mid              | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/GameOver1.mid         | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Inn1.mid              | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Inn2.mid              | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Game Over 1.mid       | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Music/Item.mid              | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Mystery.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Opening2.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Riddle.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Ride1.mid             | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Sad.mid               | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
-Music/Town1.mid             | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JDoubt.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JEnd of Battle1.mid   | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JEnd of Battle2.mid   | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JEnd of Battle3.mid   | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JEnd of Battle4.mid   | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 1.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 2.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 3.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 4.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 5.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JFanfare 6.mid        | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JInn 1.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JInn 2.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JJoke 1.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JJoke 2.mid           | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/JMystery.mid          | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Mystery 1.mid         | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Opening 2.mid         | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Sorrow.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Town 1.mid            | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
+Music/Vehicle 1.mid         | (c) 2010 Juan Manuel Nigretti        | https://soundcloud.com/goodgameaudio
 Panorama/Cosmos1.png        | (c) 2015 Tom Lemmens [CC-BY], [OGA-BY] | https://github.com/lemtom
 Panorama/Dawn1.png          | (c) 2015 Tom Lemmens [CC-BY], [OGA-BY] | https://github.com/lemtom
 Panorama/Dawn2.png          | (c) 2015 Tom Lemmens [CC-BY], [OGA-BY] | https://github.com/lemtom
