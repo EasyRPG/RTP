@@ -55,6 +55,10 @@ Panorama/Sky1.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://git
 Panorama/Sky2.png           | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
 Panorama/Sunset1.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
 Panorama/Sunset2.png        | (c) 2015 Tom Lemmens [CC-BY, OGA-BY] | https://github.com/lemtom
+Sound/Cancel1.wav           | (c) 2009 LokiF [CC0]                 | https://opengameart.org/content/gui-sound-effects
+Sound/Cursor1.wav           | (c) 2012 Kenney [CC0]                | https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
+Sound/Decision2.wav         | (c) 2016 celestialghost8 [CC0]       | http://opengameart.org/content/8bit-sfx
+Sound/Item2.wav             | (c) 2009 LokiF [CC0]                 | https://opengameart.org/content/gui-sound-effects
 System/Royal.png            | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System/System.png           | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
 System/SystemA.png          | (c) 2011 andwhyisit [CC-BY, OGA-BY]  |
