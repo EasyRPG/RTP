@@ -2,9 +2,10 @@
 
 The following EasyRPG RTP materials are licensed under a
 Creative Commons Attribution 4.0 International license.
-    
+
 License URL: https://creativecommons.org/licenses/by/4.0/
- Type|Asset Name|Year|Authors and License|Authors' URL
+
+Type|Asset Name|Year|Authors and License|Authors' URL
 :-: | :-: | :-: | :-: | :-:
 <br/>⭐<br/> ⠀ | ⠀ | ⠀ | ⠀ | ⠀
 `BattleWeapon` | Weapon.png | 2010 | russidan (Alephman) [CC-BY] | None
