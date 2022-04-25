@@ -7,6 +7,10 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 
 Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Authors' URL
  :- | :- | :- | :-
+**📁 `Battle`**|  
+├⠀ `Arrow.png` | 2022 | Someoneman [cc0] | https://github.com/Someoneman
+├⠀ `Blow.png` | 2022 | Someoneman [cc0] | https://github.com/Someoneman
+└⠀ `Sword1.png` | 2022 | Someoneman [cc0] | https://github.com/Someoneman
 **📁 `BattleWeapon`**|  
 └⠀ `Weapon.png` | 2010 | russidan (Alephman) [CC-BY] | None
 **📁 `CharSet`**|  
@@ -23,13 +27,13 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 └⠀ `Hornet.png` | 2018 | Orochii Zouveleki [CC-BY] | https://ragnarokrproject.com/
 **📁 `Music`**|  
 ├⠀ `Battle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Boss 3.mid` | 2022 | Someoneman [cc0] | https://github.com/Someoneman
 ├⠀ `Castle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `Church.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `Dungeon 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `Ending 2.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `Field 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `Game Over 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
-├⠀ `JItem.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JDoubt.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JEnd of Battle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JEnd of Battle 2.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
@@ -43,6 +47,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `JFanfare 6.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JInn 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JInn 2.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `JItem.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JJoke 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JJoke 2.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JMystery.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
@@ -66,7 +71,12 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Sunset1.png` | 2015 | Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
 └⠀ `Sunset2.png` | 2015 |  Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
 **📁 `Sound`**|  
+├⠀ `Absorb1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Attack1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Attack2.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Barrier.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Blow2.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Breath.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Buff.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Buzzer4.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Cancel1.wav` | 2009 |  LokiF [CC0] | https://opengameart.org/content/gui-sound-effects
@@ -79,9 +89,15 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Debuff.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Decision1.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Decision2.wav` | 2016 |  celestialghost8 [CC0] | http://opengameart.org/content/8bit-sfx
+├⠀ `Escape.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Evade1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Fire3.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Fire7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Flash1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Fog1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Holy2.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Holy3.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Holy5.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Holy7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Ice7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Ice9.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
