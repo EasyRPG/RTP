@@ -75,6 +75,8 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Sky2.png` | 2015 |  Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
 ├⠀ `Sunset1.png` | 2015 | Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
 └⠀ `Sunset2.png` | 2015 |  Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
+**📁 `Picture`**|  
+└⠀ `Cloud.png` | 2001 | DonMiguel [CC0] | https://github.com/easyrpg/rtp/issues/25#issuecomment-1061979316
 **📁 `Sound`**|  
 ├⠀ `Absorb1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Attack1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
