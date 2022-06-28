@@ -15,6 +15,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 └⠀ `Weapon.png` | 2010 | russidan (Alephman) [CC-BY] | None
 **📁 `CharSet`**|  
 ├⠀ `Actor1.png` | 2010 | Marina Navarro Travesset [CC-BY] | https://muerteatartajo.blogspot.com
+├  `Monster1.png` | 2022 | nudelchef [CC0] (slime) |
 ├⠀ `Object1.png` | 2017 | Tom Lemmens, <br/>Blarumyrran [CC0] (original chest) | https://github.com/lemtom
 └⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
 **📁 `ChipSet`**|  
