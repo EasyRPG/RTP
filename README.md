@@ -15,13 +15,13 @@ It allows a preconfigured setup for game creation and shared with other
 RPG Maker based games, saving download bandwidth and disk space.
 
 However, original RPG Maker RTP can't be distributed freely. RPG Maker
-RTP features a non-free, propietary license and only can be
+RTP features a non-free, propietary license despite being freeware and only can be
 distributed by authorized RPG Maker distributors. Product customers can
 distribute materials but only without separating parts from games made
 with RPG Maker.
 
-EasyRPG RTP aims to be the free (as in freedom) replacement compatible
-with the original RPG Maker RTP allowing to distribute games with more
+EasyRPG RTP aims to be the free (as in freedom,not freeware) replacement compatible
+with the original RPG Maker RTP allowing to di0stribute games with more
 freedom.
 
 
