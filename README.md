@@ -21,7 +21,7 @@ distribute materials but only without separating parts from games made
 with RPG Maker.
 
 EasyRPG RTP aims to be the free (as in freedom,not freeware) replacement compatible
-with the original RPG Maker RTP allowing to di0stribute games with more
+with the original RPG Maker RTP allowing to distribute games with more
 freedom.
 
 
