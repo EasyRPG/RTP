@@ -16,7 +16,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 **📁 `CharSet`**|  
 ├⠀ `Actor1.png` | 2010 | Marina Navarro Travesset [CC-BY] | https://muerteatartajo.blogspot.com
 ├⠀ `Object1.png` | 2017 | Tom Lemmens, <br/>Blarumyrran [CC0] (original chest) | https://github.com/lemtom
-└⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
+├⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
 **📁 `ChipSet`**|  
 ├⠀ `Dungeon.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
 ├⠀ `Exterior.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
@@ -31,14 +31,93 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 **📁 `Monster`**|  
 └⠀ `Hornet.png` | 2018 | Orochii Zouveleki [CC-BY] | https://ragnarokrproject.com/
 **📁 `Music`**|  
+├⠀ `2003Adventurers.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Ancient City.mid` | 2022 | morusque [cc-by] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `2003Battle with an Evil God.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Beginning of a War.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Casino Indulgence.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Cathedral.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Church.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003City Bustle.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Colosseum.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Creeping Darkness.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Cyber City.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003DarkAltar.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Deep Memory.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Deserted Mansion.mid` | 2022 | morusque [cc-by] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `2003Dream Forest.mid` | 2022 | morusque [cc-by] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `2003Dream of Striking It Rich.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Dreaminess.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Empire.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Exploring Ruins.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Fairy Forest.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Far Eastern Land.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Final Battleground.mid` | 2022 | northivanastan [cc0] | https://opengameart.org/users/northivanastan
+├⠀ `2003Free For All.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Healing Spring.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Hero's Return.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Ice Labyrinth.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003In the Eternal Flow of Time.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Little Army's March.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Lonesome Journey.mid` | 2022 | morusque [cc-by] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `2003Machine Fortress.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Maximum Battle.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Otherworldly Corridor.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Palace Party.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Panic.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Repeated Wars.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Silence.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Snow Town.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Sorrow.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Steady Breeze.mid` | 2022 | morusque [cc-by] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `2003Subterranean Maze.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003SunnyVillage.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Tavern.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Tension.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Village in the Valley.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Village of Savages.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `2003Waltz of Blessings.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Wings to the Sky.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `2003Young Memories.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Animal.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Battle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Battle 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Battle 3.mid` | 2022 | northivanastan [cc0] | https://opengameart.org/users/northivanastan
+├⠀ `Black Market.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Boss 1.mid` | 2022 | 魔王魂 [CC-BY] | https://maou.audio/rule/
+├⠀ `Boss 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Boss 3.mid` | 2022 | Someoneman [cc0] | https://github.com/Someoneman
+├⠀ `Boss 4.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Castle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Castle 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Castle 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Church.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Defeat.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Demon Lord.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Dungeon 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Dungeon 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Dungeon 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Dungeon 4.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Dungeon 5.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Ending 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Ending 2.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Ending 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Exploration.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Fairy 1.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Fairy 2.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
 ├⠀ `Field 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Field 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Field 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Field 4.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Game Over 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Game Over 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Game Over 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Ghost Town 1.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Ghost Town 2.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Hero 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Hero 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `In a Pinch.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `J2003Horn.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `JDoubt.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JEnd of Battle 1.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JEnd of Battle 2.mid` | 2010 | Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
@@ -56,11 +135,43 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `JJoke 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JJoke 2.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
 ├⠀ `JMystery.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Liveliness.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Lively Market.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Mystery 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Mystery 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Mystery 3.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Opening 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Opening 2.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Opening 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Parting 1.mid` | 2022 | morusque [CC-BY] | http://nurykabe.com/dump/sound/other/midi/
+├⠀ `Parting 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Repose 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Repose 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Repose 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Secret Treasure.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Ship 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Ship 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Ship 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Shop 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Shop 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Shop 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Sorrow.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Thief.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Tower 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Tower 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Tower 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 ├⠀ `Town 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
-└⠀ `Vehicle 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Town 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Town 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Trial.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Vehicle 1.mid` | 2010 |  Juan Manuel Nigretti [CC-BY] | https://soundcloud.com/goodgameaudio
+├⠀ `Vehicle 2.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Vehicle 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Victory.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Village 1.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+├⠀ `Village 2.mid` | 2022 | いのじゅん(junichiinoue) [CC-BY] | https://midisozai.inojun.net/
+├⠀ `Village 3.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
+└⠀ `Wrath.mid` | 2022 | 魔王魂(Maoudamashii) [CC-BY] | https://maou.audio/rule/
 **📁 `Panorama`**|  
 ├⠀ `Cosmos1.png` | 2015 |  Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
 ├⠀ `Dawn1.png` | 2015 |  Tom Lemmens [CC-BY] [OGA-BY] | https://github.com/lemtom
