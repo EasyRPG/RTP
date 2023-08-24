@@ -14,9 +14,22 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 **📁 `BattleWeapon`**|  
 └⠀ `Weapon.png` | 2010 | russidan (Alephman) [CC-BY] | None
 **📁 `CharSet`**|  
-├⠀ `Actor1.png` | 2010 | Marina Navarro Travesset [CC-BY] | https://muerteatartajo.blogspot.com
+├⠀ `Actor1.png` | 2010/2023 | Marina Navarro Travesset(base) [CC-BY] <br/>VictorSena(Edit) [CC0] | https://muerteatartajo.blogspot.com <br/>https://vashmaker.blogspot.com/p/works.html
+├⠀ `Actor2.png` | 2023 | VictorSena(1,2,3,4,6,7,8)[CC0]<br/>Garakuta+VictorSena(5)[CC0] | https://vashmaker.blogspot.com/p/works.html <br/>http://garakutamaker.blog.fc2.com/
+├⠀ `Actor3.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `Actor4.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `Animal.png` | 2023 | Garakuta(1,2,5,6,7,8)[CC0] <br/>VictorSena(3,4)[CC0]  | http://garakutamaker.blog.fc2.com/ <br/>https://vashmaker.blogspot.com/p/works.html
+├⠀ `Monster1.png` | 2023 | MerchantShade(1)[CC0] <br/>Garakuta(2,4)[CC0] <br/>@Jetrotal(3,5)[CC0] <br/>R.C.O.(6,7)[CC-BY] <br/>JasonPerry+Garakuta+Jetrotal(8)[CC0] | https://merchant-shade.itch.io/ <br/>http://garakutamaker.blog.fc2.com/ </br>https://github.com/jetrotal </br>https://finalbossblues.itch.io/
+├⠀ `Monster2.png` | 2023 | VictorSena [CC0], <br/>Garakuta+VictorSena(6)[CC0] | https://vashmaker.blogspot.com/p/works.html<br/>http://garakutamaker.blog.fc2.com/
 ├⠀ `Object1.png` | 2017 | Tom Lemmens, <br/>Blarumyrran [CC0] (original chest) | https://github.com/lemtom
-└⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
+├⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
+├⠀ `People1.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `People2.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `People3.png` | 2023 | VictorSena(1,2,6,7) <br/>Easychar(3,4,5,8):<br/>├ R.C.O [CC-BY] <br/>├ Jason Perry [CC0] - finalbossblues.itch.io <br/> └ Marina Navarro Travesset [CC-BY] - https://muerteatartajo.blogspot.com] | https://vashmaker.blogspot.com/p/works.html <br/>https://jetrotal.github.io/easychar/
+├⠀ `People4.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `People5.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `Vehicles.png` | 2023 | VictorSena [CC0] | https://vashmaker.blogspot.com/p/works.html
+└⠀ `template.png` | 2023 | JasonPerry [CC0] | https://finalbossblues.itch.io/
 **📁 `ChipSet`**|  
 ├⠀ `Dungeon.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
 ├⠀ `Exterior.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
