@@ -29,6 +29,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `People4.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `People5.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Vehicles.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
+├⠀ `Xtra1.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 └⠀ `template.png` | 2023 | JasonPerry [CC0] | https://finalbossblues.itch.io/
 **📁 `ChipSet`**|  
 ├⠀ `Dungeon.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
