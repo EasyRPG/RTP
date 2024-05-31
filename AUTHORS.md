@@ -21,6 +21,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Animal.png` | 2023 | Garakuta(1,2,5,6,7,8)[CC0] <br/>VictorSena(3,4)[CC-BY]  | http://garakutamaker.blog.fc2.com/ <br/>https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Monster1.png` | 2023 | MerchantShade(1)[CC0] <br/>Garakuta(2,4)[CC0] <br/>@Jetrotal(3,5)[CC0] <br/>R.C.O.(6,7)[CC-BY] <br/>JasonPerry+Garakuta+Jetrotal(8)[CC0] | https://merchant-shade.itch.io/ <br/>http://garakutamaker.blog.fc2.com/ </br>https://github.com/jetrotal </br>https://finalbossblues.itch.io/
 ├⠀ `Monster2.png` | 2023 | VictorSena [CC-BY], <br/>Garakuta+VictorSena(6)[CC-BY] | https://vashmaker.blogspot.com/p/works.html<br/>http://garakutamaker.blog.fc2.com/
+├⠀ `Monster3.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Object1.png` | 2017 | Tom Lemmens, <br/>Blarumyrran [CC0] (original chest) | https://github.com/lemtom
 ├⠀ `Object2.png` | 2010 | Verdant_Jack [CC0] | https://community.easyrpg.org/t/test-for-new-rtp/1067/8
 ├⠀ `People1.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
@@ -29,7 +30,6 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `People4.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `People5.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Vehicles.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
-├⠀ `Monster3.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 └⠀ `template.png` | 2023 | Community [CC0] | https://easyrpg.org/
 **📁 `ChipSet`**|  
 ├⠀ `Dungeon.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
@@ -99,37 +99,79 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 └⠀ `Cloud.png` | 2001 | DonMiguel [CC0] | https://github.com/easyrpg/rtp/issues/25#issuecomment-1061979316
 **📁 `Sound`**|  
 ├⠀ `Absorb1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Absorb2.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Attack1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Attack2.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Barrier.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Barrier1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Barrier2.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
+├⠀ `Bell.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
+├⠀ `Blind.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Blow2.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Blow4.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Breath.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Buff.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Buzzer1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Buzzer2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Buzzer3.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Buzzer4.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Cancel1.wav` | 2009 |  LokiF [CC0] | https://opengameart.org/content/gui-sound-effects
 ├⠀ `Cancel2.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Chime1.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Chime2.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Clock.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
+├⠀ `Close1.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
+├⠀ `Collapse1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Collapse2.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Combat2.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Confusion.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Cursor1.wav` | 2012 |  Kenney [CC0] | https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
 ├⠀ `Cursor2.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Damage2.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Darkness3.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Darkness4.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Darkness5.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Debuff.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Decision1.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Decision2.wav` | 2016 |  celestialghost8 [CC0] | http://opengameart.org/content/8bit-sfx
+├⠀ `Earth2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Earth6.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Earth7.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Earth8.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
 ├⠀ `Escape.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Evade1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Evade2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Fall1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Fall2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Fire1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Fire2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Fire3.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Fire4.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Fire6.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Fire7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Flash1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Fog1.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
+├⠀ `Glare.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Holy2.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Holy3.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Holy5.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Holy7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Ice6.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Ice7.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Ice9.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Item1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Item2.wav` | 2009 |  LokiF [CC0] | https://opengameart.org/content/gui-sound-effects
-└⠀ `Poison.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Magic1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Move.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Poison.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
+├⠀ `Pollen.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Raise2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Recovery5.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Recovery8.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Sandstorm.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Song.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Wave2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+└⠀ `Wind8.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 **📁 `System`**|  
 ├⠀ `Royal.png` | 2011 |  andwhyisit [CC-BY] [OGA-BY] | None
 ├⠀ `System.png` | 2011 |  andwhyisit [CC-BY] [OGA-BY] | None
