@@ -106,7 +106,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Barrier1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Barrier2.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
 ├⠀ `Bell.wav` | 2023 | lavendersiren [CC0] | https://jingloria.wertercatt.com/dungeoncrashers/index.html
-├⠀ `Blind.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
+├⠀ `Blind.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Blow2.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
 ├⠀ `Blow4.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Breath.wav` | 2022 | null-painter-error [cc0] | https://null-painter-error.itch.io/
