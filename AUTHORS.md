@@ -30,7 +30,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `People4.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `People5.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Vehicles.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
-└⠀ `template.png` | 2023 | Community [CC0] | https://easyrpg.org/
+└⠀ `Template.png` | 2023 | Community [CC0] | https://easyrpg.org/
 **📁 `ChipSet`**|  
 ├⠀ `Dungeon.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
 ├⠀ `Exterior.png` | 2022 | JasonPerry [CC0] | https://finalbossblues.itch.io/
